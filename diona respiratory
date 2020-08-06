@@ -1,0 +1,7 @@
+echo "# MY-DIONA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dionadieasong/MY-DIONA.git
+git push -u origin master
+                
